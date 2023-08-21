@@ -1,0 +1,6 @@
+{
+    "require": {
+        "openai-php/client": "^0.3.3",
+      "ext-curl": "*"
+    }
+}
