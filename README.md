@@ -1,5 +1,8 @@
 ### basic chat example using php and jquery ajax
 
+// add example.png 
+[![example](example.png)](example.png)
+
 ### Requirements
 
 - php 7.4
